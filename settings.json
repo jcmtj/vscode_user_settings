@@ -1,0 +1,18 @@
+{
+    "window.zoomLevel": -1,
+    "files.autoGuessEncoding": true,
+    "git.ignoreMissingGitWarning": true,
+    "editor.renderWhitespace": "all",
+    "workbench.colorCustomizations": {
+        "editorWhitespace.foreground": "#284f7cfb",
+        "editor.lineHighlightBorder": "#ad7949f8",
+        "statusBar.background" : "#1A1A1A",
+        "statusBar.noFolderBackground" : "#212121",
+        "statusBar.debuggingBackground": "#263238"
+    },
+    "editor.minimap.enabled": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.rendererType": "dom",
+    "breadcrumbs.enabled": true,
+    "editor.renderControlCharacters": false
+}
